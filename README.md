@@ -235,8 +235,6 @@ flowchart TD
 | Phase 3 → 4 | 50+ paper trades with positive EV, all risk checks firing correctly |
 | Phase 4 | 50+ live trades with verified positive results |
 
-Currently in **Phase 3** (paper trading active, outcome recording running).
-
 ---
 
 I'm happy to do a live walkthrough or answer any questions about the implementation. Reach out via [LinkedIn](https://www.linkedin.com/in/danielkalo) or the contact on my resume.
