@@ -2,8 +2,6 @@
 
 An automated trading system for [Kalshi](https://kalshi.com) prediction markets. The bot runs a five-stage pipeline — Scan → Research → Predict → Risk → Execute — that identifies mispriced binary contracts, generates calibrated probability estimates via a dual-perspective LLM setup, validates trades through deterministic risk rules, and tracks forecast accuracy with Brier Score before any real capital is deployed.
 
-> **Status:** Phase 3 paper trading. Live execution is gated on 50+ paper trades with verified positive expected value.
-
 ---
 
 ## Why Private?
@@ -238,3 +236,7 @@ flowchart TD
 | Phase 4 | 50+ live trades with verified positive results |
 
 Currently in **Phase 3** (paper trading active, outcome recording running).
+
+---
+
+I'm happy to do a live walkthrough or answer any questions about the implementation. Reach out via [LinkedIn](https://www.linkedin.com/in/danielkalo) or the contact on my resume.
